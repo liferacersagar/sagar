@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriScore AI Analyzer",
+  "description": "An intelligent food label analyzer that provides a health score, plain-language explanations, and evidence-based references for any product. Users can input product information via barcode text, label text, or an image of the ingredients list.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
